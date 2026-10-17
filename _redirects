@@ -1,0 +1,3 @@
+# Cloudflare / Netlify redirects
+/index.htm    /    301!
+/*            /index.html   200
