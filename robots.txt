@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# XML Sitemaps for Googlebot and Search Engines
+Sitemap: https://sandeepji.aurgenzo.com/sitemap.xml
+Sitemap: https://sandeepji.aurgenzo.com/sitemap-index.xml
+Sitemap: https://sandeepji.aurgenzo.com/sitemap-main.xml
+Sitemap: https://sandeepji.aurgenzo.com/sitemap-marriage.xml
+Sitemap: https://sandeepji.aurgenzo.com/sitemap-visa.xml
+Sitemap: https://sandeepji.aurgenzo.com/sitemap-love.xml
+Sitemap: https://sandeepji.aurgenzo.com/sitemap-disputes.xml
+Sitemap: https://sandeepji.aurgenzo.com/sitemap-dosha.xml
+Sitemap: https://sandeepji.aurgenzo.com/sitemap-career.xml
+Sitemap: https://sandeepji.aurgenzo.com/sitemap-locations.xml

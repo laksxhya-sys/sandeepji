@@ -1,0 +1,1256 @@
+================================================================================
+ASTROLOGER SANDEEP JI — MASTER IMAGE REQUIREMENTS & AI GENERATION PROMPTS
+Total Images: 77 (Numbered 1 to 77)
+Organized by:
+  Part 1: Homepage Situation Cards (Images 1 to 13)
+  Part 2: 57 Dedicated Service Landing Pages (Images 14 to 70)
+  Part 3: 7 Category Master Banners (Images 71 to 77)
+================================================================================
+
+HOW TO USE THIS FILE:
+1. Every image is uniquely numbered from [IMAGE #01] to [IMAGE #77].
+2. For each number, copy the "EXACT AI PROMPT" into Midjourney, DALL-E 3, Flux, or Google Imagen.
+3. Save the generated image with the given "TARGET FILENAME" (e.g. "images/situation-01.jpg").
+4. When you provide the images or tell me "I have image #01, #02...", I will place them in the correct pages immediately!
+
+================================================================================
+
+--------------------------------------------------------------------------------
+[IMAGE #01] — Love & Relationship Problems — Emotional Detachment
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/situation-01.jpg
+• DESTINATION PAGE  : index.htm (Situation Card 01)
+• CATEGORY          : Love & Relationships
+• RECOMMENDED SIZE  : 800 x 600 px (4:3 aspect ratio)
+• SCENE DESCRIPTION : An Indian couple in their late 20s sitting at opposite ends of an elegant couch, gazing away from each other with silent sorrow, a visible emotional gap between them, subtle warm evening lamplight, royal Vedic home decor.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"Cinematic, realistic photograph of an attractive young Indian couple experiencing emotional detachment. A handsome man in a simple linen shirt sitting on one side of a contemporary classic sofa looking down pensively, and a beautiful Indian woman in an elegant kurti on the other side looking out of a large balcony window with tears in her eyes. Deep emotional silence, soft golden sunset light streaming through sheer curtains, gentle depth of field, atmospheric, poignant, 8k resolution, photorealistic, award-winning composition, shot on 85mm f/1.4 lens."
+
+• NEGATIVE PROMPT:
+"cartoon, anime, 3d render, distorted hands, extra limbs, ugly faces, oversaturated, blurry, bad anatomy"
+
+--------------------------------------------------------------------------------
+[IMAGE #02] — Breakups & Deep Heartbreak Recovery
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/situation-02.jpg
+• DESTINATION PAGE  : index.htm (Situation Card 02)
+• CATEGORY          : Love & Relationships
+• RECOMMENDED SIZE  : 800 x 600 px (4:3 aspect ratio)
+• SCENE DESCRIPTION : A heartbroken young woman sitting by a rain-streaked window holding an old photograph of happier times with her partner, emotional, solitary, soft moody illumination.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"Emotional cinematic portrait of a beautiful Indian woman in her late 20s coping with a painful breakup. She sits beside a rainy window pane at twilight, holding an old photograph of her and her lover. Soft tears on her cheeks, wistful expression, warm indoor ambient table lamp casting subtle golden highlights against the cool blue rainy evening outside, shallow depth of field, tender, deeply melancholic, photorealistic, 8k, ultra-detailed skin textures, cinematic lighting."
+
+• NEGATIVE PROMPT:
+"cartoon, 3d CGI, deformed fingers, unrealistic face, bright neon, cartoonish sadness"
+
+--------------------------------------------------------------------------------
+[IMAGE #03] — Partner Stopped Talking & Silent Treatment (Blocked on Phone)
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/situation-03.jpg
+• DESTINATION PAGE  : index.htm (Situation Card 03)
+• CATEGORY          : Love & Relationships
+• RECOMMENDED SIZE  : 800 x 600 px (4:3 aspect ratio)
+• SCENE DESCRIPTION : A young man anxiously staring at his smartphone in the dark, showing red blocked/call failure indicators, feeling desperate and hopeless due to sudden silent treatment.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A young handsome South Asian man sitting at a dark wooden bedside table at 2 AM, looking down in despair at his glowing smartphone screen showing unread messages and a disconnected call. Atmospheric cinematic mood, deep shadows, soft warm lamplight from a brass bedside lamp reflecting on his worried face, emotional vulnerability, authentic expressions, hyperrealistic, 8k resolution, cinematic color grading with crimson and warm amber tones."
+
+• NEGATIVE PROMPT:
+"cartoon, exaggerated expressions, text on screen, deformed hands, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #04] — Get Ex Love Back & Soul Reunion
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/situation-04.jpg
+• DESTINATION PAGE  : index.htm (Situation Card 04)
+• CATEGORY          : Love & Relationships
+• RECOMMENDED SIZE  : 800 x 600 px (4:3 aspect ratio)
+• SCENE DESCRIPTION : A separated couple reuniting outdoors in an ancient heritage temple courtyard, emotional tears of joy, holding hands tightly as they look into each other's eyes.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A deeply emotional cinematic reunion of an estranged Indian couple in an ancient, sandstone Vedic temple courtyard during golden hour. The man gently holds both hands of the woman, tears of relief and love in their eyes, the woman smiling through emotional tears. Radiant warm amber sunlight, dust motes dancing in the air, ancient intricately carved temple pillars in soft background blur, soulmate connection, 8k, photorealistic masterpiece, shot on 50mm f/1.2."
+
+• NEGATIVE PROMPT:
+"cartoon, 3d model, plastic skin, unnatural smiles, deformed fingers, blur"
+
+--------------------------------------------------------------------------------
+[IMAGE #05] — One-Sided Love Attraction & First Proposal Call
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/situation-05.jpg
+• DESTINATION PAGE  : index.htm (Situation Card 05)
+• CATEGORY          : Love & Relationships
+• RECOMMENDED SIZE  : 800 x 600 px (4:3 aspect ratio)
+• SCENE DESCRIPTION : A radiant, beautiful Indian girl smiling warmly as she holds her mobile phone to her ear, making the first call with love and genuine affection.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"Stunning cinematic portrait of an attractive 24-year-old Indian woman with sparkling eyes and a genuine, shy romantic smile, holding a smartphone to her ear, making a heartfelt phone call. She is wearing a soft pastel peach traditional outfit with delicate golden embroidery. Warm morning golden sunlight filtering through garden foliage in background, radiant skin, romantic atmosphere, authentic happiness, 8k resolution, award-winning photography, photorealistic."
+
+• NEGATIVE PROMPT:
+"oversaturated, fake smile, 3d render, extra fingers, distorted eyes, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #06] — Relationship Conflicts & Constant Fights
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/situation-06.jpg
+• DESTINATION PAGE  : index.htm (Situation Card 06)
+• CATEGORY          : Love & Relationships
+• RECOMMENDED SIZE  : 800 x 600 px (4:3 aspect ratio)
+• SCENE DESCRIPTION : A couple in the middle of a tense verbal disagreement in a modern living room, tension in the air, looking away in frustration and hurt pride.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"Cinematic realistic shot of an Indian couple in a modern apartment facing conflict. The man stands with hands on his hips looking away frustrated, while the woman sits at the dining table with head resting in her hand, exhausted from constant arguing. Subtle dramatic lighting, high emotional tension, authentic domestic atmosphere, muted warm tones, shallow depth of field, 8k resolution, shot on Arri Alexa, masterclass cinematography."
+
+• NEGATIVE PROMPT:
+"cartoon, theatrical screaming, comical, distorted anatomy, low quality"
+
+--------------------------------------------------------------------------------
+[IMAGE #07] — Toxic Relationships & Mental Relief / Evil Eye
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/situation-07.jpg
+• DESTINATION PAGE  : index.htm (Situation Card 07)
+• CATEGORY          : Love & Relationships
+• RECOMMENDED SIZE  : 800 x 600 px (4:3 aspect ratio)
+• SCENE DESCRIPTION : A woman finding peace and spiritual relief after cleansing toxic energy, meditating peacefully with a calm expression, soft divine rays around her.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A beautiful serene Indian woman sitting in quiet meditation in a tranquil sacred space with subtle floating incense smoke and gentle diya oil lamp glow. Her face radiates newfound peace, freedom from toxic attachments, inner healing. Soft golden light illuminating her profile, sacred brass bowls and rudraksha beads nearby in soft focus, spiritual aura, ethereal yet grounded and hyperrealistic, 8k resolution, cinematic lighting."
+
+• NEGATIVE PROMPT:
+"dark fantasy, scary, demonic, cartoon, over-exposed, deformed anatomy"
+
+--------------------------------------------------------------------------------
+[IMAGE #08] — Divorce Prevention & Reconciliation
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/situation-08.jpg
+• DESTINATION PAGE  : index.htm (Situation Card 08)
+• CATEGORY          : Husband-Wife & Divorce
+• RECOMMENDED SIZE  : 800 x 600 px (4:3 aspect ratio)
+• SCENE DESCRIPTION : Husband and wife sitting across a table with legal divorce papers pushed aside, their hands touching in mutual forgiveness, breaking the split.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"Poignant cinematic scene of a married Indian husband and wife in their early 30s. A table between them holds legal separation papers and wedding rings, but their hands are reaching out and clasping together in heartfelt reconciliation. Subtle tears, deep emotional relief and healing, soft natural window light, warm timber interior, hyperrealistic, 8k resolution, award-winning storytelling photography."
+
+• NEGATIVE PROMPT:
+"cartoon, fake emotions, text on paper, deformed hands, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #09] — Marriage & Husband-Wife Disputes
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/situation-09.jpg
+• DESTINATION PAGE  : index.htm (Situation Card 09)
+• CATEGORY          : Husband-Wife & Divorce
+• RECOMMENDED SIZE  : 800 x 600 px (4:3 aspect ratio)
+• SCENE DESCRIPTION : Married couple sitting in silent tension, but with an underlying longing to reconnect, subtle domestic atmosphere.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"Cinematic portrait of an Indian married couple in a traditional home experiencing marital tension. The husband in a kurta sits on an armchair looking deeply concerned, the wife in a saree stands near an arched doorway looking over her shoulder with longing and sadness. Sacred Vedic home atmosphere with brass bells and warm lamps in background, authentic emotional depth, 8k resolution, hyperrealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, exaggerated drama, low resolution, extra arms"
+
+--------------------------------------------------------------------------------
+[IMAGE #10] — Family Not Accepting Love Marriage
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/situation-10.jpg
+• DESTINATION PAGE  : index.htm (Situation Card 10)
+• CATEGORY          : Marriage Specialist
+• RECOMMENDED SIZE  : 800 x 600 px (4:3 aspect ratio)
+• SCENE DESCRIPTION : A young couple standing respectfully before conservative Indian parents in a traditional living room, seeking blessings, parents' stern expressions starting to soften.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A dramatic, emotional cinematic shot inside a traditional Indian family home. A young devoted couple in traditional attire standing respectfully with folded hands (Namaste) before elder parents seated on a sofa. The father and mother have contemplative, softening expressions. Warm rich Indian interior with marigold garlands and ancestral portraits in background, atmospheric depth of field, 8k resolution, photorealistic masterpiece."
+
+• NEGATIVE PROMPT:
+"cartoon, flat lighting, aggressive caricatures, deformed fingers"
+
+--------------------------------------------------------------------------------
+[IMAGE #11] — Inter-Caste & Interfaith Marriage Solutions
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/situation-11.jpg
+• DESTINATION PAGE  : index.htm (Situation Card 11)
+• CATEGORY          : Marriage Specialist
+• RECOMMENDED SIZE  : 800 x 600 px (4:3 aspect ratio)
+• SCENE DESCRIPTION : A couple from different cultural backgrounds celebrating their sacred wedding rituals, hands tied in marriage knot (Gathbandhan), holy fire (Havan) glowing.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"Rich cinematic close-up of an inter-caste Indian wedding ritual. The bride's henna-adorned hands and the groom's hands tied together with a sacred red and gold silk thread (Gathbandhan) over the warm glowing Vedic holy fire (Havan). Rose petals scattered, gold bangles glistening in the firelight, sacred smoke curling upward, profound spiritual unity, 8k resolution, ultra-detailed macro photography, warm royal color palette."
+
+• NEGATIVE PROMPT:
+"blurry, deformed fingers, cartoon, distorted fire, artificial CGI"
+
+--------------------------------------------------------------------------------
+[IMAGE #12] — Visa Delays & Overseas Settlement with Partner
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/situation-12.jpg
+• DESTINATION PAGE  : index.htm (Situation Card 12)
+• CATEGORY          : Visa & Overseas
+• RECOMMENDED SIZE  : 800 x 600 px (4:3 aspect ratio)
+• SCENE DESCRIPTION : An international airport terminal, an Indian couple with passports and luggage, joyfully hugging before departure to settle abroad together.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"Cinematic photograph of an Indian husband and wife at an international airport departures terminal. They are joyfully holding passports with visa stamps, standing beside their travel luggage. Through the expansive floor-to-ceiling glass windows, a modern commercial jet airliner is seen on the tarmac bathed in golden sunrise light. Expressions of triumphant happiness, relief, and adventure, 8k, photorealistic, 50mm f/1.4 lens."
+
+• NEGATIVE PROMPT:
+"cartoon, distorted planes, fake passports, weird limbs, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #13] — Career Hurdles, Mangal Dosha & Evil Eye Protection
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/situation-13.jpg
+• DESTINATION PAGE  : index.htm (Situation Card 13)
+• CATEGORY          : Graha Dosha & Protection
+• RECOMMENDED SIZE  : 800 x 600 px (4:3 aspect ratio)
+• SCENE DESCRIPTION : A sacred Vedic brass Navagraha plate with red coral and gemstones, oil lamps, surrounded by holy Vedic scriptures, radiating protective golden light.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"Atmospheric, majestic still life of authentic Vedic astrology rituals. An ancient copper Navagraha Yantra surrounded by glowing brass oil lamps (diyas), sacred red vermillion (kumkum), energized gemstones including natural red coral, yellow sapphire, and rudraksha beads resting on an ancient palm-leaf manuscript. Gentle curls of frankincense smoke, golden warm bokeh, spiritual authority and serenity, 8k resolution, macro photorealism."
+
+• NEGATIVE PROMPT:
+"cartoon, dark occult, scary, skull, modern digital graphics, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #14] — World's Best Marriage Specialist Astrologer
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/world-best-marriage-specialist.jpg
+• DESTINATION PAGE  : world-best-marriage-specialist.html
+• CATEGORY          : Marriage Specialist
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : Vedic master astrologer in saffron silk conducting a sacred marriage blessing ritual with Kundali birth charts and holy fire.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"Majestic cinematic scene of a revered Vedic astrologer seated serenely in a traditional consultation room with carved wooden shelves filled with ancient astrological scriptures. On his wooden desk lies an authentic handwritten Janam Kundali birth chart, brass compass, energized crystals, and fresh jasmine flowers. A glowing brass lamp illuminates his wise, compassionate face. Royal ivory, crimson and gold atmosphere, 8k resolution, hyperrealistic, award-winning editorial lighting."
+
+• NEGATIVE PROMPT:
+"cartoon, Western wizard, crystal ball, dark occult, distorted hands"
+
+--------------------------------------------------------------------------------
+[IMAGE #15] — Love Marriage Specialist Astrologer
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/love-marriage-specialist.jpg
+• DESTINATION PAGE  : love-marriage-specialist.html
+• CATEGORY          : Marriage Specialist
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A joyous young Indian bride and groom in gorgeous royal wedding attire, looking into each other's eyes during their Vedic wedding ceremony.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"An exquisite cinematic portrait of a regal Indian bride in an ornate red and gold Zardozi lehenga and a handsome groom in an ivory sherwani and safa, smiling tenderly at each other amidst falling marigold and rose petals during their Vedic Vivah ceremony. Soft sacred fire glow, opulent royal palace backdrop, authentic cultural grandeur, 8k resolution, photorealistic, rich warm tones."
+
+• NEGATIVE PROMPT:
+"cartoon, cheap clothing, artificial 3d, deformed eyes, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #16] — World's Best Vedic Astrologer Sandeep Ji
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/world-best-astrologer.jpg
+• DESTINATION PAGE  : world-best-astrologer.html
+• CATEGORY          : Marriage Specialist
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : An authoritative, wise Vedic astrological consultation setting with celestial brass armillary sphere, horoscope charts, and sacred symbols.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"Cinematic, dignified portrait of a distinguished Indian Vedic astrological master in a rich ivory and maroon silk shawl, studying planetary positions on an antique brass astrological armillary sphere and handwritten Sanskrit horoscope chart. Warm library of sacred ancient texts in background, soft morning sunlight casting divine rays, wisdom and deep serenity, 8k resolution, master portrait photography."
+
+• NEGATIVE PROMPT:
+"cartoon, fantasy sorcerer, crystal ball, evil look, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #17] — Inter-Caste Love Marriage Specialist
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/intercaste-love-marriage-specialist.jpg
+• DESTINATION PAGE  : intercaste-love-marriage-specialist.html
+• CATEGORY          : Marriage Specialist
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : Two diverse families joining hands in celebration around an auspicious wedding setup, joy and harmony uniting them.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A heartwarming cinematic photograph of two diverse Indian families happily celebrating an engagement ceremony. The fathers are embracing warmly, mothers smiling and sharing traditional sweets (laddoo), while the young couple in traditional silk outfits exchange loving glances. Joyous cultural harmony, festive marigold decorations, warm incandescent lighting, authentic happiness, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, fake smiles, awkward poses, extra limbs"
+
+--------------------------------------------------------------------------------
+[IMAGE #18] — Interfaith & Inter-Religion Marriage Astrologer
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/interfaith-love-marriage-solution.jpg
+• DESTINATION PAGE  : interfaith-love-marriage-solution.html
+• CATEGORY          : Marriage Specialist
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A loving couple from two distinct cultural and religious heritages standing together hand in hand under a canopy of white blossoms and golden lights.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A beautiful, respectful cinematic visual of an interfaith couple standing hand in hand. The woman wears an elegant pastel embroidered attire and the man wears a classic formal outfit. They stand peacefully under a floral wedding canopy adorned with white orchids and warm fairy lights. Subtle sacred symbols of peace in the soft background, mutual respect, profound harmony, 8k resolution, soft focus portrait."
+
+• NEGATIVE PROMPT:
+"religious stereotypes, conflict, cartoon, deformed hands"
+
+--------------------------------------------------------------------------------
+[IMAGE #19] — How to Convince Parents for Love Marriage
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/convince-parents-for-love-marriage.jpg
+• DESTINATION PAGE  : convince-parents-for-love-marriage.html
+• CATEGORY          : Marriage Specialist
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : Emotional moment where traditional Indian parents warmly place their hands in blessing on the heads of the young couple kneeling before them.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"An authentic, deeply touching cinematic scene in a cultured Indian home. Elderly Indian parents smiling with tears of joy, placing their hands in blessing on the heads of their kneeling son and future daughter-in-law. The daughter-in-law touches the mother's feet with reverence. Warm afternoon light, rich family home setting, generational healing and reconciliation, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, rigid stiffness, distorted hands, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #20] — Late Marriage & Delay in Marriage Problem Solution
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/delay-in-marriage-solution.jpg
+• DESTINATION PAGE  : delay-in-marriage-solution.html
+• CATEGORY          : Marriage Specialist
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A beautiful young Indian woman performing Katyayani Vrata / Shiva-Parvati puja with fresh flowers and diya for early marriage yoga.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"Cinematic photograph of a graceful 28-year-old Indian woman in a yellow silk saree performing a sacred Vivah Badha Nivaran prayer before a Shiva-Parvati idol. She offers fresh red hibiscus and bael leaves, hands folded in prayer, a glowing brass diya casting gentle light on her hopeful, serene face. Sacred temple sanctuary atmosphere, divine grace, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, dark occult, scary, ugly faces, extra limbs"
+
+--------------------------------------------------------------------------------
+[IMAGE #21] — Authentic Kundali Milan & Gun Milan for Marriage
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/kundali-milan-for-marriage.jpg
+• DESTINATION PAGE  : kundali-milan-for-marriage.html
+• CATEGORY          : Marriage Specialist
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : Two traditional Janam Kundali horoscope charts placed side by side with a golden quill, gemstones, and 36 Guna Ashtakoot matching calculations.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"High-end aesthetic macro photograph of two authentic handwritten Vedic Kundali birth charts lying side-by-side on antique parchment paper. An ornate golden pen, natural yellow sapphire and red coral gemstones, rudraksha beads, and fresh jasmine buds rest beside the charts. Soft candlelight casting warm amber shadows, ancient wisdom, astrological precision, 8k resolution, hyperrealistic depth of field."
+
+• NEGATIVE PROMPT:
+"blurry text, digital screens, modern laptops, cartoon"
+
+--------------------------------------------------------------------------------
+[IMAGE #22] — Manglik Dosha Nivaran & Marital Protection Remedies
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/mangal-dosha-marriage-problem.jpg
+• DESTINATION PAGE  : mangal-dosha-marriage-problem.html
+• CATEGORY          : Marriage Specialist
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : Sacred Mangal Shanti puja setup with natural red coral, copper Yantra, red flowers, and holy havan fire.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"Majestic cinematic visual of a traditional Mangal Shanti Vedic ritual. A consecrated copper Mangal Yantra surrounded by red carnations, natural triangular red coral in gold, copper water pot (Kalash) with coconut and mango leaves, and sacred havan fire glowing softly in background. Sacred spiritual power, deep crimson and bronze tones, 8k resolution, photorealistic macro photography."
+
+• NEGATIVE PROMPT:
+"cartoon, scary fire, devilish, fantasy, deformed objects"
+
+--------------------------------------------------------------------------------
+[IMAGE #23] — Nadi Dosha Cancellation & Marriage Problem Solution
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/nadi-dosha-marriage-solution.jpg
+• DESTINATION PAGE  : nadi-dosha-marriage-solution.html
+• CATEGORY          : Marriage Specialist
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A sacred Maha Mrityunjaya and gold donation ritual being performed by Vedic priests to cancel Nadi Dosha for a smiling couple.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A reverent Vedic ritual scene where an Indian couple participates in a sacred Nadi Dosha Shanti puja led by a Vedic pundit. The couple offers flowers and sacred water to a copper Shivling, blessed with holy ash and sandalwood paste. Sacred temple ambiance, golden lamps flickering, spiritual cleansing, peaceful expressions, 8k resolution, authentic cultural photography."
+
+• NEGATIVE PROMPT:
+"cartoon, 3d render, distorted anatomy, messy hands"
+
+--------------------------------------------------------------------------------
+[IMAGE #24] — Bhakoot Dosha Nivaran & Marital Harmony
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/bhakoot-dosha-nivaran.jpg
+• DESTINATION PAGE  : bhakoot-dosha-nivaran.html
+• CATEGORY          : Marriage Specialist
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A couple holding a sacred Shiva-Parvati silver coin together over sacred water, symbolizing balance and emotional harmony.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"Close-up cinematic shot of an Indian husband and wife's hands jointly holding a consecrated silver coin depicting Shiva and Parvati over a polished brass Kalash filled with sacred water and rose petals. Glistening reflections, emotional peace, marital harmony, soft warm lighting, 8k resolution, high-end editorial macro photography."
+
+• NEGATIVE PROMPT:
+"blurry, distorted fingers, cartoon, plastic skin"
+
+--------------------------------------------------------------------------------
+[IMAGE #25] — Arranged Marriage Compatibility & Problem Solution
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/arranged-marriage-problem-solution.jpg
+• DESTINATION PAGE  : arranged-marriage-problem-solution.html
+• CATEGORY          : Marriage Specialist
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A newlywed couple in an arranged marriage enjoying a candid, warm laugh together on their balcony over evening tea, growing closer.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A candid, tender cinematic moment between an Indian newlywed couple on their scenic balcony at dusk. The husband in a casual kurta and the wife in a modern pastel saree are sharing evening chai, laughing warmly together as genuine affection blossoms between them. Fairy lights and city skyline in soft bokeh background, romance, emotional comfort, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"stiff models, cartoon, fake laugh, bad anatomy"
+
+--------------------------------------------------------------------------------
+[IMAGE #26] — Second Marriage & Remarriage Astrological Guidance
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/second-marriage-yoga-astrology.jpg
+• DESTINATION PAGE  : second-marriage-yoga-astrology.html
+• CATEGORY          : Marriage Specialist
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A mature, elegant Indian couple in their mid-to-late 30s enjoying a serene walk in a palace garden, ready for a blissful new beginning.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A dignified and romantic cinematic portrait of a mature Indian couple (late 30s/early 40s) walking together through a sun-dappled heritage palace garden. The woman looks elegant in a rose gold silk suit and the man in a tailored bandhgala. They look at each other with deep gratitude, healing, and maturity. Golden autumn sunlight, peaceful new beginnings, 8k resolution, photorealistic masterpiece."
+
+• NEGATIVE PROMPT:
+"teenage models, cartoon, over-saturated, plastic skin"
+
+--------------------------------------------------------------------------------
+[IMAGE #27] — Marriage Proposal Acceptance & Quick Rishta Remedies
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/marriage-proposal-acceptance.jpg
+• DESTINATION PAGE  : marriage-proposal-acceptance.html
+• CATEGORY          : Marriage Specialist
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A romantic marriage proposal where the Indian woman with a radiant expression joyfully accepts a ring under fairy lights.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A breathtaking cinematic marriage proposal in a romantic rooftop terrace adorned with warm fairy lights, candles, and red rose petals. A handsome Indian man in a sharp blazer presents an open velvet ring box to a gorgeous Indian woman covering her mouth in overwhelmed joy and tearful happiness, saying YES. Intimate, magical atmosphere, 8k resolution, photorealistic, 85mm f/1.4 lens."
+
+• NEGATIVE PROMPT:
+"cartoon, distorted jewelry, awkward hands, flat lighting"
+
+--------------------------------------------------------------------------------
+[IMAGE #28] — Visa Problem Solution Astrologer & Foreign Travel Remedies
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/visa-problem-solution-astrology.jpg
+• DESTINATION PAGE  : visa-problem-solution-astrology.html
+• CATEGORY          : Visa & Overseas
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : An Indian professional holding an approved visa passport, standing in front of a modern international embassy building with golden sunrise light.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A triumphant cinematic photograph of a young Indian professional holding an open passport displaying a stamped visa approval, standing outside a sleek international consular building at sunrise. A confident, joyful smile, modern professional attire, golden morning sun flare reflecting off glass architecture, freedom, global success, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, fake looking passport, blurry, distorted hands"
+
+--------------------------------------------------------------------------------
+[IMAGE #29] — Foreign Settlement Astrology & Overseas PR Yoga
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/foreign-settlement-astrology.jpg
+• DESTINATION PAGE  : foreign-settlement-astrology.html
+• CATEGORY          : Visa & Overseas
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A happy Indian family standing in front of their beautiful new home in a scenic North American/European suburb with suitcases.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A heartwarming cinematic portrait of a successful Indian couple with their young child standing happily in front of their contemporary home in a scenic overseas suburban neighborhood (Canada/USA). Lush green lawn, autumn maple trees, luggage on the porch, warm afternoon sunlight, the realization of the global dream, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, distorted faces, unnatural poses, low resolution"
+
+--------------------------------------------------------------------------------
+[IMAGE #30] — Spouse Visa Delay & International Reunion Astrology
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/spouse-visa-delay-solution.jpg
+• DESTINATION PAGE  : spouse-visa-delay-solution.html
+• CATEGORY          : Visa & Overseas
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A couple embracing tightly in the arrivals gate of an international airport after a long and painful visa separation.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"An intensely emotional cinematic photograph of an Indian husband and wife embracing tightly at an international airport arrivals gate. Tears of pure relief and joy streaming down their faces after months of separation. Luggage trolley beside them, blurred airport travelers in background, poignant reunion, 8k resolution, documentary-style photorealism."
+
+• NEGATIVE PROMPT:
+"cartoon, cold emotion, deformed faces, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #31] — Student Visa Approval & Foreign Education Astrology
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/student-visa-astrology-remedies.jpg
+• DESTINATION PAGE  : student-visa-astrology-remedies.html
+• CATEGORY          : Visa & Overseas
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : An Indian student with a backpack holding an acceptance letter outside a historic ivy-league university campus.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A cheerful, ambitious 22-year-old Indian student carrying a backpack and holding a university acceptance folder, standing proudly on the cobblestone quad of a prestigious ivy-covered historic university campus abroad. Crisp autumn foliage, golden sunshine, optimism, academic triumph, 8k resolution, photorealistic, 50mm f/1.4 lens."
+
+• NEGATIVE PROMPT:
+"cartoon, blurry, distorted architecture, extra fingers"
+
+--------------------------------------------------------------------------------
+[IMAGE #32] — Permanent Residency (PR) & Citizenship Astrology
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/pr-citizenship-astrology.jpg
+• DESTINATION PAGE  : pr-citizenship-astrology.html
+• CATEGORY          : Visa & Overseas
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : An Indian couple celebrating receiving their official permanent residency confirmation documents with joy.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A joyful cinematic photograph of a proud Indian couple in their modern apartment holding an official Permanent Residency confirmation document with happy smiles. A miniature global globe and laptop on the wooden desk, celebratory flowers on table, warm natural lighting pouring in from tall windows, 8k resolution, hyperrealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, text artifacts, bad anatomy, flat colors"
+
+--------------------------------------------------------------------------------
+[IMAGE #33] — Work Permit & Overseas Career Astrology Remedies
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/work-visa-job-abroad-astrology.jpg
+• DESTINATION PAGE  : work-visa-job-abroad-astrology.html
+• CATEGORY          : Visa & Overseas
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : An Indian professional in formal business attire standing in a high-rise office overlooking a global skyline (Dubai / New York / London).
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"An inspiring cinematic portrait of a sharp Indian tech/corporate professional in a tailored suit standing in a modern glass corner office, looking out at the panoramic skyline of a global city (skyscrapers, modern architecture). Confident posture, ambient executive office lighting, global career success, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, unrealistic skyline, blurry, distorted hands"
+
+--------------------------------------------------------------------------------
+[IMAGE #34] — Cross-Border Love Marriage & International Visa Solutions
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/cross-border-love-marriage-visa.jpg
+• DESTINATION PAGE  : cross-border-love-marriage-visa.html
+• CATEGORY          : Visa & Overseas
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : An international couple holding hands across a vintage world map with two passports and wedding rings placed on it.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"An artistic cinematic still life: two distinct international passports lying side by side on an antique parchment world map, linked together by two shining gold wedding bands and a red silk ribbon. Soft vintage compass and fresh white roses nearby. Warm golden candlelight, symbolizing cross-border love conquering distance, 8k resolution, macro photography."
+
+• NEGATIVE PROMPT:
+"cartoon, digital CGI, messy text, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #35] — Get Lost Love Back by Authentic Vedic Astrology
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/get-lost-love-back.jpg
+• DESTINATION PAGE  : get-lost-love-back.html
+• CATEGORY          : Love & Relationships
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A couple reuniting under an ancient banyan tree during golden hour, holding each other close after long separation.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A breathtaking cinematic photograph of an Indian couple embracing passionately beneath a grand ancient banyan tree during a golden hour sunset. Warm rays of sunlight filter through the leaves, illuminating their faces filled with relief, deep forgiveness, and rekindled love. Emotional intimacy, dreamlike yet photorealistic, 8k resolution, masterclass composition."
+
+• NEGATIVE PROMPT:
+"cartoon, awkward poses, extra limbs, bad lighting"
+
+--------------------------------------------------------------------------------
+[IMAGE #36] — Get Your Ex Love Back Specialist Astrologer
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/get-ex-love-back.jpg
+• DESTINATION PAGE  : get-ex-love-back.html
+• CATEGORY          : Love & Relationships
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : An ex-partner returning with flowers, standing at the doorstep with an apologetic, loving smile.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"Cinematic shot of a handsome Indian man standing on an apartment doorstep holding a bouquet of fresh red roses, gazing with an apologetic, tender, and deeply loving smile at the door opening. Warm hallway lamplight, emotional reconciliation, vulnerability, photorealistic, 8k resolution, shot on 85mm lens."
+
+• NEGATIVE PROMPT:
+"cartoon, creepy smile, distorted flowers, bad hands"
+
+--------------------------------------------------------------------------------
+[IMAGE #37] — Partner Stopped Talking & Blocked on Calls/WhatsApp Solution
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/partner-stopped-talking-solution.jpg
+• DESTINATION PAGE  : partner-stopped-talking-solution.html
+• CATEGORY          : Love & Relationships
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A phone on a table illuminating with an incoming call from 'My Love', after days of silence.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"Atmospheric cinematic close-up of a modern smartphone resting on a dark rustic wooden table in a dimly lit room. The screen illuminates brightly showing an incoming call with a heart icon and the contact name glowing in warm white and green. Beside the phone sits a cup of tea and a small brass Ganesha idol. A feeling of divine intervention and overwhelming relief, 8k resolution, photorealistic macro."
+
+• NEGATIVE PROMPT:
+"cartoon, messy text, broken screen, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #38] — Breakup Problem Solution & Heartbreak Healing Astrology
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/breakup-problem-solution.jpg
+• DESTINATION PAGE  : breakup-problem-solution.html
+• CATEGORY          : Love & Relationships
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A soul healing from heartbreak, looking up toward radiant golden morning sunlight as dark clouds part.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A powerful, uplifting cinematic image of an Indian woman sitting peacefully in a sun-drenched veranda, closing her eyes and breathing in the morning breeze as golden rays warm her face. A subtle visual motif of a glowing energetic heart healing within her chest. Nature in full bloom around her, emotional liberation, hope, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"dark, gory, cartoon, medical illustration, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #39] — One-Sided Love Attraction & Successful Proposal Specialist
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/one-sided-love-solution.jpg
+• DESTINATION PAGE  : one-sided-love-solution.html
+• CATEGORY          : Love & Relationships
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A young Indian man and woman seated across a quaint cafe table, the woman leaning forward with sparkling, captivated eyes of mutual attraction.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A romantic cinematic photograph inside a cozy, charming cafe with vintage wooden decor and hanging warm filament bulbs. A beautiful Indian woman is leaning forward across the table, gazing with sparkling, captivated romantic attraction at a handsome Indian man who smiles warmly back. Golden bokeh, undeniable chemistry, 8k resolution, photorealistic, shot on 50mm f/1.2."
+
+• NEGATIVE PROMPT:
+"cartoon, bored expression, flat lighting, extra fingers"
+
+--------------------------------------------------------------------------------
+[IMAGE #40] — Toxic Relationship Healing & Mental Relief Astrology
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/toxic-relationship-healing.jpg
+• DESTINATION PAGE  : toxic-relationship-healing.html
+• CATEGORY          : Love & Relationships
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A person peacefully lighting a diya lamp in a sacred home temple, feeling protected and free from negativity.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A soothing cinematic photograph of an Indian person lighting an ornate brass oil lamp (diya) in front of a serene household altar. The warm flame casts a protective golden glow, dissolving surrounding shadows. Sacred marigolds, incense smoke drifting peacefully, deep tranquility, emotional sanctuary, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"scary, dark, cartoon, distorted flame, low quality"
+
+--------------------------------------------------------------------------------
+[IMAGE #41] — Vedic Remedies for Love Breakup & Soul Reunion
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/love-breakup-remedies.jpg
+• DESTINATION PAGE  : love-breakup-remedies.html
+• CATEGORY          : Love & Relationships
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : Authentic Gauri-Shankar Rudraksha and Vedic Kamdev yantra surrounded by fresh pink lotus petals and warm lamps.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"Magnificent macro photograph of an authentic, naturally joined Gauri-Shankar Rudraksha bead resting atop a sacred consecrated brass Kamdev Yantra plate. Fresh pink lotus petals and fragrant jasmine flowers surround the sacred setup, illuminated by gentle brass oil lamp flames. Divine spiritual love, 8k resolution, ultra-detailed textures, photorealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, plastic rudraksha, dark fantasy, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #42] — Attract Desired Partner with Vedic Kamdev & Shukra Astrology
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/attract-desired-partner.jpg
+• DESTINATION PAGE  : attract-desired-partner.html
+• CATEGORY          : Love & Relationships
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A charismatic, radiant person standing confidently with a glowing, warm aura of magnetism and charm.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A stunning cinematic portrait of an attractive Indian individual radiating magnetic charm and confidence. Dressed in elegant attire, standing against a softly illuminated architectural background during twilight. Warm golden light enhances facial features and sparkling eyes, evoking irresistible charisma, pure attraction, and self-worth, 8k resolution, high-fashion editorial quality."
+
+• NEGATIVE PROMPT:
+"cartoon, glowing neon superpowers, fake anime aura, distorted face"
+
+--------------------------------------------------------------------------------
+[IMAGE #43] — Stop Forced or Unwanted Marriage Astrological Remedies
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/stop-unwanted-marriage.jpg
+• DESTINATION PAGE  : stop-unwanted-marriage.html
+• CATEGORY          : Love & Relationships
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A woman standing with serene relief as unwanted matchmaker papers dissolve peacefully, walking toward her true path.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A symbolic cinematic photograph of an Indian woman standing in a luminous sunlit corridor of an ancient palace, breathing a sigh of deep relief. In the soft blurred background, formal matrimonial proposals are peacefully set aside, while she walks confidently toward a sun-drenched archway representing freedom and true love. Dignified, peaceful resolution, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"violence, fighting, cartoon, dramatic screaming, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #44] — Cheating Partner Loyalty & Relationship Commitment Remedies
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/cheating-partner-solution.jpg
+• DESTINATION PAGE  : cheating-partner-solution.html
+• CATEGORY          : Love & Relationships
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A husband holding his wife's hands with genuine remorse and unwavering loyalty, recommitting to his family.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"An emotional cinematic moment between an Indian husband and wife in their home. The husband holds both of his wife's hands against his chest, looking into her eyes with deep humility, sincere repentance, and absolute devotion. The wife's face shows gentle forgiveness and trust returning. Warm, intimate indoor lighting, 8k resolution, photorealistic masterpiece."
+
+• NEGATIVE PROMPT:
+"cartoon, melodramatic crying, distorted hands, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #45] — Husband Wife Dispute Problem Solution Astrologer
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/husband-wife-dispute-solution.jpg
+• DESTINATION PAGE  : husband-wife-dispute-solution.html
+• CATEGORY          : Husband-Wife & Divorce
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A married Indian couple sharing a tender moment of forgiveness and love in their living room, ending arguments.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A beautiful cinematic photograph of an Indian married couple in their early 30s. The husband gently wipes a joyful tear from his wife's cheek as they smile tenderly at each other, sitting close on a couch in their warm living room. Fresh flowers on table, warm home ambiance, reconciliation and peaceful companionship, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, stiff poses, plastic skin, distorted fingers"
+
+--------------------------------------------------------------------------------
+[IMAGE #46] — Divorce Prevention & Reconciliation Astrological Remedies
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/divorce-problem-solution.jpg
+• DESTINATION PAGE  : divorce-problem-solution.html
+• CATEGORY          : Husband-Wife & Divorce
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A couple standing together holding hands outside a family court, choosing to tear up separation papers and stay married.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A deeply moving cinematic scene outside a courthouse. A married Indian couple stands together on the sunlit steps, their wedding rings gleaming as they tear a divorce petition in half with smiles of profound relief and renewal. Warm sunlight bathing the scene, triumph of love over dispute, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, messy text, ugly faces, bad hands, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #47] — Stop Extra Marital Affairs & Restore Marital Fidelity
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/extra-marital-affair-solution.jpg
+• DESTINATION PAGE  : extra-marital-affair-solution.html
+• CATEGORY          : Husband-Wife & Divorce
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A devoted husband sitting happily with his wife and child at home, completely detached from outside distractions.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A heartwarming cinematic portrait of a reunited Indian family in their cozy living room. A devoted husband lovingly playing with his young child while laughing warmly with his wife, who leans against his shoulder. His smartphone lies face down, forgotten on the side table. Pure domestic bliss, absolute loyalty, warm golden ambient lighting, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, infidelity imagery, dark mood, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #48] — In-Laws Problem Solution & Saas-Bahu Kalesh Shanti
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/in-laws-problem-solution.jpg
+• DESTINATION PAGE  : in-laws-problem-solution.html
+• CATEGORY          : Husband-Wife & Divorce
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A mother-in-law and daughter-in-law laughing together warmly in a kitchen while preparing festive food, united in affection.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A cheerful, heartwarming cinematic scene in a traditional Indian kitchen. An elderly mother-in-law in a cotton saree and her young daughter-in-law are cooking festive sweets together, sharing a joyful, affectionate laugh. The daughter-in-law lovingly feeds a sweet to the mother-in-law. Warm domestic harmony, mutual respect, golden morning light, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, evil caricatures, fighting, bad anatomy"
+
+--------------------------------------------------------------------------------
+[IMAGE #49] — Vedic Relationship Counseling & Astrological Guidance
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/relationship-counseling-astrology.jpg
+• DESTINATION PAGE  : relationship-counseling-astrology.html
+• CATEGORY          : Husband-Wife & Divorce
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A couple engaged in an open, peaceful, deeply connected conversation with birth charts on a table, guided by Vedic wisdom.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A serene, elegant visual of an Indian couple having an authentic, heartfelt conversation in a quiet consultation room. Between them on a low wooden table rests a Vedic astrology chart and a brass singing bowl. They are listening to each other with empathy, relaxed postures, soft natural lighting through bamboo blinds, emotional maturity, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, arguing, angry faces, clinical hospital setting"
+
+--------------------------------------------------------------------------------
+[IMAGE #50] — Family Dispute & Parivar Kalesh Shanti Astrologer
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/family-dispute-problem-solution.jpg
+• DESTINATION PAGE  : family-dispute-problem-solution.html
+• CATEGORY          : Husband-Wife & Divorce
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : An entire multi-generational Indian family seated together in harmony, enjoying a festive meal with laughter and unity.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A grand, joyful cinematic photograph of a joint Indian family of three generations gathered around a lavish dining table for a festival meal. Grandparents, adult siblings, spouses, and children laughing together in genuine unity and celebration. Warm brass lamps, marigold garlands, abundance of food, family peace restored, 8k resolution, award-winning cultural photography."
+
+• NEGATIVE PROMPT:
+"cartoon, flat lighting, messy table, distorted faces"
+
+--------------------------------------------------------------------------------
+[IMAGE #51] — Positive Vedic Vashikaran Specialist Astrologer
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/positive-vashikaran-specialist.jpg
+• DESTINATION PAGE  : positive-vashikaran-specialist.html
+• CATEGORY          : Graha Dosha & Protection
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : Sacred Vedic Sammohan rituals with golden energized yantras, rose petals, and holy Vedic mantras written on Bhojpatra.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"An exquisite, reverent still life of sacred Satvik Vedic Vashikaran. An authentic golden Sammohan Yantra inscribed with sacred Sanskrit Beej mantras, placed on an ancient Bhojpatra birch bark sheet. Fresh pink lotus flowers, fragrant sandalwood paste, glowing ghee lamps, and pure white quartz crystals surround the sacred plate. Divine spiritual magnetism, 8k resolution, hyperrealistic macro."
+
+• NEGATIVE PROMPT:
+"black magic, dark fantasy, voodoo, skulls, demonic, cartoon"
+
+--------------------------------------------------------------------------------
+[IMAGE #52] — Evil Eye (Buri Nazar) Removal & Spiritual Protection
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/evil-eye-nazar-dosh-removal.jpg
+• DESTINATION PAGE  : evil-eye-nazar-dosh-removal.html
+• CATEGORY          : Graha Dosha & Protection
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A protective silver Vedic Kavach amulet with sacred black thread and camphor flame, cleansing negative psychic energy.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A dramatic, atmospheric macro photograph of a consecrated silver Vedic Raksha Kavach (protective talisman) hanging from a sacred black thread, held over a purifying camphor flame on a brass aarti plate. Wisps of white smoke dissipating into the dark background, golden embers, divine protection from evil eye, 8k resolution, cinematic lighting."
+
+• NEGATIVE PROMPT:
+"cartoon, scary eyes, demonic symbols, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #53] — Black Magic Removal & Negative Energy Protection
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/black-magic-removal-astrologer.jpg
+• DESTINATION PAGE  : black-magic-removal-astrologer.html
+• CATEGORY          : Graha Dosha & Protection
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : Divine golden light breaking through dark shadows, symbolizing victorious Vedic Maha Sudarshana mantra clearing dark energy.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"An epic, divine spiritual visual: a radiant, golden sacred Sudarshana Chakra of pure cosmic light bursting through dissolving dark, foggy shadows. Sacred Sanskrit syllables glowing in brilliant gold, radiating peace, invincible divine protection, and absolute purification. Majestic, sacred, hyperrealistic cinematic quality, 8k resolution."
+
+• NEGATIVE PROMPT:
+"cartoon, demonic imagery, gore, horror movie poster, dark occult"
+
+--------------------------------------------------------------------------------
+[IMAGE #54] — Navagraha Shanti Puja & Vedic Planetary Remedies
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/graha-shanti-puja-remedies.jpg
+• DESTINATION PAGE  : graha-shanti-puja-remedies.html
+• CATEGORY          : Graha Dosha & Protection
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A complete Navagraha mandala setup with 9 distinct colored grains, 9 planetary gems, and sacred havan kund fire.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A breathtaking high-angle cinematic view of an authentic Navagraha Shanti mandala created on a polished marble temple floor with nine colored grains, nine energized planetary gemstones, betel leaves, and nine brass oil lamps. Sacred Vedic Havan fire glowing beside the mandala with aromatic smoke rising. Supreme Vedic precision, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, messy grains, blurry, distorted geometry"
+
+--------------------------------------------------------------------------------
+[IMAGE #55] — Kaal Sarp Dosh Nivaran & Complete Shanti Puja
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/kaal-sarp-dosha-nivaran.jpg
+• DESTINATION PAGE  : kaal-sarp-dosha-nivaran.html
+• CATEGORY          : Graha Dosha & Protection
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : Sacred silver Nag-Nagin pair offered during Shiva Abhishek puja with milk, bilva leaves, and glowing diya.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"Reverent close-up shot of an authentic Kaal Sarp Shanti ritual. A handcrafted silver pair of serpents (Nag-Nagin) resting on a black granite Shivling during Panchamrit abhishek. Fresh green Bael leaves, white Datura flowers, and raw milk flowing gracefully over the lingam. Faint incense smoke, holy temple atmosphere, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"scary snake, venomous animal, cartoon, fake CGI"
+
+--------------------------------------------------------------------------------
+[IMAGE #56] — Shani Sade Sati & Dhaiya Astrological Remedies
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/shani-sade-sati-remedies.jpg
+• DESTINATION PAGE  : shani-sade-sati-remedies.html
+• CATEGORY          : Graha Dosha & Protection
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A consecrated iron ring, black sesame seeds, and mustard oil diya lit on a Saturday for Lord Shani Dev's grace.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"Atmospheric, dignified still life of a Shani Dev propitiation setup. An ancient black stone Shani Yantra with an energized black horseshoe ring resting on a brass dish filled with black sesame seeds and blue aprajita flowers. A mustard oil iron lamp (diya) burns with a calm, steady golden flame. Solemn, powerful, meditative, 8k resolution, photorealistic macro."
+
+• NEGATIVE PROMPT:
+"cartoon, scary devil, distorted objects, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #57] — Rahu Ketu Mahadasha & Shadow Planet Remedies
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/rahu-ketu-dosha-remedies.jpg
+• DESTINATION PAGE  : rahu-ketu-dosha-remedies.html
+• CATEGORY          : Graha Dosha & Protection
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : Gomed (Hessonite) and Cat's Eye gemstones glowing beside ancient palm-leaf shadow planet charts and copper yantras.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"Exquisite macro still life of shadow planet astrology: a sparkling, honey-colored natural Hessonite (Gomed) gemstone and a sharp-eyed Chrysoberyl Cat's Eye gemstone set in silver pendants, resting on a sacred copper Rahu-Ketu Yantra. Ancient Sanskrit manuscript pages in soft background, mystical yet scientifically precise, 8k resolution, hyperrealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, dark demons, fake plastic gems, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #58] — Career Problem Solution & Job Growth Astrology
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/career-problem-solution-astrology.jpg
+• DESTINATION PAGE  : career-problem-solution-astrology.html
+• CATEGORY          : Career & Business
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A young Indian professional receiving a promotion letter and congratulations from colleagues in a modern office.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A triumphant cinematic photograph in a modern corporate office. A young Indian professional in business attire smiling proudly as senior executives shake his hand, handing him a promotion letter. Colleagues applauding in the background. Bright, professional office setting, morning sun streaming through glass windows, career milestone victory, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, fake smiles, distorted hands, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #59] — Business Growth Astrology & Business Loss Recovery
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/business-growth-astrology.jpg
+• DESTINATION PAGE  : business-growth-astrology.html
+• CATEGORY          : Career & Business
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A business owner in their thriving store/office, smiling warmly as customers and revenue flow in.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"An inspiring cinematic shot of an Indian entrepreneur standing proudly inside their upscale, bustling retail showroom or commercial enterprise. A brass Kuber wealth yantra is discreetly placed behind the counter with fresh marigold garland. Happy customers browsing in the background, warm commercial lighting, thriving business success, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, empty store, sad expression, messy composition"
+
+--------------------------------------------------------------------------------
+[IMAGE #60] — Financial Crisis, Debt Relief & Wealth Astrology
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/financial-crisis-money-astrology.jpg
+• DESTINATION PAGE  : financial-crisis-money-astrology.html
+• CATEGORY          : Career & Business
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : Golden Maha Lakshmi Shri Yantra radiating abundant golden light, surrounded by gold coins, symbolizing debt eradication.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"Majestic, high-end macro photograph of an authentic three-dimensional Maha Meru Shri Yantra in solid panchdhatu gold, radiating divine abundance and golden light. Fresh lotus flowers, unbroken rice grains (akshat), and pure gold coins scattered around its sacred geometric base. Wealth manifestation, divine prosperity, 8k resolution, photorealistic masterpiece."
+
+• NEGATIVE PROMPT:
+"cartoon, cheap fake gold, distorted geometry, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #61] — Love Marriage Specialist Astrologer in USA
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/love-marriage-specialist-usa.jpg
+• DESTINATION PAGE  : love-marriage-specialist-usa.html
+• CATEGORY          : Global & NRI Locations
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : An Indian NRI couple in modern chic winter coats smiling happily against the New York City skyline and Brooklyn Bridge.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A stylish, romantic cinematic photograph of a young Indian NRI couple standing affectionately on the Brooklyn Bridge promenade during sunset. The Manhattan skyline and soft golden sky reflected in the East River behind them. The woman wears a chic camel trench coat and the man wears a tailored wool coat, holding hands and smiling lovingly, 8k resolution, photorealistic, 50mm f/1.4 lens."
+
+• NEGATIVE PROMPT:
+"cartoon, tourist stereotypes, bad anatomy, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #62] — Love Marriage Specialist Astrologer in UK
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/love-marriage-specialist-uk.jpg
+• DESTINATION PAGE  : love-marriage-specialist-uk.html
+• CATEGORY          : Global & NRI Locations
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A British Asian couple walking hand in hand along the Thames riverbank with the London Eye and Westminster in background.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"Romantic cinematic photograph of an attractive British Asian couple walking hand in hand along the South Bank in London during blue hour twilight. Warm street lamps glowing, iconic London architecture softly blurred in the background, elegant autumn coats, intimate and romantic connection, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, rainy grim darkness, distorted faces, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #63] — Love Marriage Specialist Astrologer in Canada
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/love-marriage-specialist-canada.jpg
+• DESTINATION PAGE  : love-marriage-specialist-canada.html
+• CATEGORY          : Global & NRI Locations
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : An Indian couple enjoying an autumn walk in a Toronto park with CN tower in the background, surrounded by red maple trees.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A gorgeous cinematic photograph of an Indian couple in love, walking through a Toronto park surrounded by vibrant red and golden autumn maple trees. The iconic CN Tower skyline is visible in the soft background. The couple laughs warmly as the man wraps his arm around her shoulders, Canadian NRI love story, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, snow blizzard, distorted faces, bad limbs"
+
+--------------------------------------------------------------------------------
+[IMAGE #64] — Love Marriage Specialist Astrologer in Australia
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/love-marriage-specialist-australia.jpg
+• DESTINATION PAGE  : love-marriage-specialist-australia.html
+• CATEGORY          : Global & NRI Locations
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : An Indian couple by the Sydney Harbour promenade enjoying the golden sunset breeze, holding hands lovingly.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A radiant cinematic photograph of an Indian couple holding hands by the Sydney Harbour waterfront at golden hour sunset. Iconic white sails of the Opera House and Harbour Bridge gently blurred across the sparkling blue water, gentle sea breeze playing with her hair, romantic happiness, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, tourist selfie style, harsh flash, extra limbs"
+
+--------------------------------------------------------------------------------
+[IMAGE #65] — Love Marriage Specialist Astrologer in UAE & Dubai
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/love-marriage-specialist-uae.jpg
+• DESTINATION PAGE  : love-marriage-specialist-uae.html
+• CATEGORY          : Global & NRI Locations
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : An Indian expat couple dressed in elegant evening attire by a rooftop terrace overlooking the illuminated Dubai Marina skyline.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"An opulent, romantic cinematic photograph of a glamorous Indian couple standing on a luxury rooftop terrace overlooking the Dubai Marina illuminated by glittering skyscrapers at night. The woman wears a chic designer gown and the man a crisp tailored suit, sharing an intimate romantic moment under desert starlight, 8k resolution, photorealistic masterpiece."
+
+• NEGATIVE PROMPT:
+"cartoon, tacky neon, distorted architecture, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #66] — Love Marriage Specialist Astrologer in Delhi NCR
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/love-marriage-specialist-delhi.jpg
+• DESTINATION PAGE  : love-marriage-specialist-delhi.html
+• CATEGORY          : Global & NRI Locations
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A young couple in traditional modern ethnic wear smiling lovingly in the serene gardens of Lodhi Garden or India Gate backdrop.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A charming cinematic portrait of a Delhi couple in contemporary Indian designer wear strolling through the lush historic greenery of Lodhi Gardens. Mughal architectural arches in background bathed in golden afternoon sunlight, authentic Delhi romance, serene and deeply connected, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, crowded tourist mess, traffic, smog, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #67] — Love Marriage Specialist Astrologer in Mumbai
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/love-marriage-specialist-mumbai.jpg
+• DESTINATION PAGE  : love-marriage-specialist-mumbai.html
+• CATEGORY          : Global & NRI Locations
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A romantic couple enjoying the sunset breeze at Marine Drive sea face, looking out into the Arabian sea together.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"An iconic, romantic cinematic photograph of a young Mumbai couple sitting on the Marine Drive promenade at sunset. Golden orange sunlight reflecting on the Arabian Sea waves, Queen's Necklace curve in soft background, holding hands in quiet intimacy, authentic Mumbai love story, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, trash, crowded chaos, over-saturated, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #68] — Love Marriage Specialist Astrologer in Punjab & Chandigarh
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/love-marriage-specialist-punjab.jpg
+• DESTINATION PAGE  : love-marriage-specialist-punjab.html
+• CATEGORY          : Global & NRI Locations
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A Punjabi couple in traditional Phulkari and Kurta Pajama standing joyfully amidst blooming mustard fields (Sarson) in Punjab.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A vibrant, heart-stirring cinematic photograph of a Punjabi couple in lush golden-yellow blooming mustard fields (Sarson ke Khet) in Punjab. The woman wears an exquisite embroidered Phulkari dupatta and Punjabi suit, and the man wears a classic Kurta with a matching turban. Pure joy, genuine love, golden hour radiance, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, cheap Bollywood parody, distorted anatomy, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #69] — Love Marriage Specialist Astrologer in Bangalore
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/love-marriage-specialist-bangalore.jpg
+• DESTINATION PAGE  : love-marriage-specialist-bangalore.html
+• CATEGORY          : Global & NRI Locations
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A modern tech couple enjoying a peaceful weekend stroll under the majestic rain trees of Cubbon Park, Bangalore.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A serene, romantic cinematic photograph of an Indian tech professional couple in smart casual wear walking hand in hand beneath the towering green canopies and pink trumpet flowers of Cubbon Park in Bangalore. Gentle morning mist, dappled sunlight, coffee mugs in hand, modern urban love finding peace, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, office cubicles, busy traffic, flat lighting"
+
+--------------------------------------------------------------------------------
+[IMAGE #70] — Love Marriage Specialist Astrologer in Hyderabad
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/love-marriage-specialist-hyderabad.jpg
+• DESTINATION PAGE  : love-marriage-specialist-hyderabad.html
+• CATEGORY          : Global & NRI Locations
+• RECOMMENDED SIZE  : 1200 x 675 px (16:9 aspect ratio)
+• SCENE DESCRIPTION : A couple in royal Hyderabadi ethnic wear enjoying a quiet moment at a heritage palace courtyard in Hyderabad.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A regal, romantic cinematic photograph of a Hyderabadi couple dressed in elegant Nawabi ethnic attire, standing on an intricately carved stone terrace of a heritage palace in Hyderabad at twilight. The lit heritage domes and Hussain Sagar lake glow softly in the distance, timeless romantic elegance, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, tourist clutter, bad posture, distorted eyes"
+
+--------------------------------------------------------------------------------
+[IMAGE #71] — Marriage & Love Marriage Specialist Master Category Banner
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/banner-category-marriage.jpg
+• DESTINATION PAGE  : sitemap.html & Category Sections (Marriage)
+• CATEGORY          : Category Banner
+• RECOMMENDED SIZE  : 1200 x 500 px (2.4:1 banner aspect ratio)
+• SCENE DESCRIPTION : Panoramic Vedic wedding ceremony with golden mandap, sacred holy fire, marigolds, and traditional wedding ornaments.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"An opulent cinematic panoramic banner of an auspicious royal Vedic wedding altar (Mandap). Intricately carved wooden pillars draped with fresh orange marigolds and red roses, glowing holy Havan kund fire in the center, brass Kalash with sacred water, and silk cushions in rich ivory and crimson. Golden divine light radiating, royal luxury, 8k resolution, wide-angle architectural photography."
+
+• NEGATIVE PROMPT:
+"cartoon, empty sterile room, bad fire, low resolution"
+
+--------------------------------------------------------------------------------
+[IMAGE #72] — Visa & Overseas Settlement Master Category Banner
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/banner-category-visa.jpg
+• DESTINATION PAGE  : sitemap.html & Category Sections (Visa & Overseas)
+• CATEGORY          : Category Banner
+• RECOMMENDED SIZE  : 1200 x 500 px (2.4:1 banner aspect ratio)
+• SCENE DESCRIPTION : Panoramic conceptual banner blending an ancient astrological chart with a global world map and international flight trajectories.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A panoramic conceptual artwork: an ancient golden astrological chart and celestial zodiac globe seamlessly blending into a vintage map of the world with glowing flight paths connecting India to USA, UK, Canada, and Australia. Passports and golden compass in foreground bathed in sunrise light, aspirational, global, 8k resolution, hyperrealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, blurry, low resolution, messy graphics"
+
+--------------------------------------------------------------------------------
+[IMAGE #73] — Lost Love & Relationship Healing Master Category Banner
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/banner-category-love.jpg
+• DESTINATION PAGE  : sitemap.html & Category Sections (Lost Love & Ex)
+• CATEGORY          : Category Banner
+• RECOMMENDED SIZE  : 1200 x 500 px (2.4:1 banner aspect ratio)
+• SCENE DESCRIPTION : Panoramic romantic sunset with two soulmates walking together hand in hand along a tranquil beach, waves glowing gold.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A panoramic cinematic banner of two lovers walking hand in hand along a serene shoreline at golden sunset. The sea waves reflect warm liquid amber light, silhouettes framed by a soft pink and gold twilight sky, pure romantic emotional connection, peaceful reconciliation, 8k resolution, wide-angle cinematic composition."
+
+• NEGATIVE PROMPT:
+"cartoon, storm, dark, awkward silhouettes, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #74] — Husband-Wife Disputes & Divorce Prevention Master Category Banner
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/banner-category-disputes.jpg
+• DESTINATION PAGE  : sitemap.html & Category Sections (Husband-Wife)
+• CATEGORY          : Category Banner
+• RECOMMENDED SIZE  : 1200 x 500 px (2.4:1 banner aspect ratio)
+• SCENE DESCRIPTION : A peaceful Indian household sanctuary with glowing diya lamps, fresh flowers, and symbols of enduring domestic bliss.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A panoramic cinematic banner of a peaceful, harmonious Indian home interior. An elegant wooden swing (jhula) with silk cushions, a brass urli bowl floating with fresh pink roses and floating candles on a carved table, soft evening sunlight streaming through traditional jali screens. Domestic serenity, peace, and loving sanctuary, 8k resolution, architectural interior photography."
+
+• NEGATIVE PROMPT:
+"cartoon, dark messy room, broken items, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #75] — Graha Dosha, Vashikaran & Protection Master Category Banner
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/banner-category-dosha.jpg
+• DESTINATION PAGE  : sitemap.html & Category Sections (Dosha & Protection)
+• CATEGORY          : Category Banner
+• RECOMMENDED SIZE  : 1200 x 500 px (2.4:1 banner aspect ratio)
+• SCENE DESCRIPTION : Panoramic temple altar with nine sacred planetary lamps (Navagraha deepam) and ancient Sanskrit yantras.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A panoramic, sacred visual of nine ornate brass oil lamps burning steadily in a line on a temple stone pedestal, illuminating ancient Sanskrit mantras and geometric yantras inscribed on copper plates behind them. Incense smoke swirling into soft golden bokeh, aura of ancient divine protection and cosmic order, 8k resolution, photorealistic."
+
+• NEGATIVE PROMPT:
+"dark magic, demonic, cartoon, blurry, low quality"
+
+--------------------------------------------------------------------------------
+[IMAGE #76] — Career, Business & Financial Growth Master Category Banner
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/banner-category-career.jpg
+• DESTINATION PAGE  : sitemap.html & Category Sections (Career & Business)
+• CATEGORY          : Category Banner
+• RECOMMENDED SIZE  : 1200 x 500 px (2.4:1 banner aspect ratio)
+• SCENE DESCRIPTION : A panoramic skyline of modern business towers at sunrise with ancient golden scales of Lakshmi and Kuber.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A wide panoramic visual blending a breathtaking modern global corporate skyline at golden sunrise with classical Vedic symbols of wealth and prosperity: an ornate golden kalash overflowing with gold coins, a brass Meru Shri Yantra, and blossoming lotus flowers. Economic triumph, financial stability, 8k resolution, hyperrealistic."
+
+• NEGATIVE PROMPT:
+"cartoon, casino chips, cheap money graphics, blurry"
+
+--------------------------------------------------------------------------------
+[IMAGE #77] — Global & NRI Astrological Services Master Category Banner
+--------------------------------------------------------------------------------
+• TARGET FILENAME   : images/banner-category-locations.jpg
+• DESTINATION PAGE  : sitemap.html & Category Sections (Global & NRI)
+• CATEGORY          : Category Banner
+• RECOMMENDED SIZE  : 1200 x 500 px (2.4:1 banner aspect ratio)
+• SCENE DESCRIPTION : Panoramic montage of iconic world landmarks (Statue of Liberty, Big Ben, CN Tower, Sydney Opera House, Burj Khalifa, India Gate) under a starry celestial sky.
+
+• EXACT AI PROMPT (Copy-Paste this into Midjourney / DALL-E / Flux):
+"A magnificent panoramic cinematic collage of world-famous landmarks (Statue of Liberty, Big Ben, CN Tower, Sydney Opera House, Burj Khalifa, and India Gate) united under a deep indigo celestial night sky shimmering with golden constellation lines and zodiac symbols. Harmonious, global Vedic reach, 8k resolution, master digital matte painting."
+
+• NEGATIVE PROMPT:
+"cartoon, messy collage cuts, low resolution, blurry"
+
+================================================================================
+SUMMARY DIRECTORY TABLE (FOR QUICK TRACKING)
+================================================================================
+[#01] images/situation-01.jpg                        -> Love & Relationship Problems — Emotional Detachment
+[#02] images/situation-02.jpg                        -> Breakups & Deep Heartbreak Recovery
+[#03] images/situation-03.jpg                        -> Partner Stopped Talking & Silent Treatment (Blocked on Phone)
+[#04] images/situation-04.jpg                        -> Get Ex Love Back & Soul Reunion
+[#05] images/situation-05.jpg                        -> One-Sided Love Attraction & First Proposal Call
+[#06] images/situation-06.jpg                        -> Relationship Conflicts & Constant Fights
+[#07] images/situation-07.jpg                        -> Toxic Relationships & Mental Relief / Evil Eye
+[#08] images/situation-08.jpg                        -> Divorce Prevention & Reconciliation
+[#09] images/situation-09.jpg                        -> Marriage & Husband-Wife Disputes
+[#10] images/situation-10.jpg                        -> Family Not Accepting Love Marriage
+[#11] images/situation-11.jpg                        -> Inter-Caste & Interfaith Marriage Solutions
+[#12] images/situation-12.jpg                        -> Visa Delays & Overseas Settlement with Partner
+[#13] images/situation-13.jpg                        -> Career Hurdles, Mangal Dosha & Evil Eye Protection
+[#14] images/world-best-marriage-specialist.jpg      -> World's Best Marriage Specialist Astrologer
+[#15] images/love-marriage-specialist.jpg            -> Love Marriage Specialist Astrologer
+[#16] images/world-best-astrologer.jpg               -> World's Best Vedic Astrologer Sandeep Ji
+[#17] images/intercaste-love-marriage-specialist.jpg -> Inter-Caste Love Marriage Specialist
+[#18] images/interfaith-love-marriage-solution.jpg   -> Interfaith & Inter-Religion Marriage Astrologer
+[#19] images/convince-parents-for-love-marriage.jpg  -> How to Convince Parents for Love Marriage
+[#20] images/delay-in-marriage-solution.jpg          -> Late Marriage & Delay in Marriage Problem Solution
+[#21] images/kundali-milan-for-marriage.jpg          -> Authentic Kundali Milan & Gun Milan for Marriage
+[#22] images/mangal-dosha-marriage-problem.jpg       -> Manglik Dosha Nivaran & Marital Protection Remedies
+[#23] images/nadi-dosha-marriage-solution.jpg        -> Nadi Dosha Cancellation & Marriage Problem Solution
+[#24] images/bhakoot-dosha-nivaran.jpg               -> Bhakoot Dosha Nivaran & Marital Harmony
+[#25] images/arranged-marriage-problem-solution.jpg  -> Arranged Marriage Compatibility & Problem Solution
+[#26] images/second-marriage-yoga-astrology.jpg      -> Second Marriage & Remarriage Astrological Guidance
+[#27] images/marriage-proposal-acceptance.jpg        -> Marriage Proposal Acceptance & Quick Rishta Remedies
+[#28] images/visa-problem-solution-astrology.jpg     -> Visa Problem Solution Astrologer & Foreign Travel Remedies
+[#29] images/foreign-settlement-astrology.jpg        -> Foreign Settlement Astrology & Overseas PR Yoga
+[#30] images/spouse-visa-delay-solution.jpg          -> Spouse Visa Delay & International Reunion Astrology
+[#31] images/student-visa-astrology-remedies.jpg     -> Student Visa Approval & Foreign Education Astrology
+[#32] images/pr-citizenship-astrology.jpg            -> Permanent Residency (PR) & Citizenship Astrology
+[#33] images/work-visa-job-abroad-astrology.jpg      -> Work Permit & Overseas Career Astrology Remedies
+[#34] images/cross-border-love-marriage-visa.jpg     -> Cross-Border Love Marriage & International Visa Solutions
+[#35] images/get-lost-love-back.jpg                  -> Get Lost Love Back by Authentic Vedic Astrology
+[#36] images/get-ex-love-back.jpg                    -> Get Your Ex Love Back Specialist Astrologer
+[#37] images/partner-stopped-talking-solution.jpg    -> Partner Stopped Talking & Blocked on Calls/WhatsApp Solution
+[#38] images/breakup-problem-solution.jpg            -> Breakup Problem Solution & Heartbreak Healing Astrology
+[#39] images/one-sided-love-solution.jpg             -> One-Sided Love Attraction & Successful Proposal Specialist
+[#40] images/toxic-relationship-healing.jpg          -> Toxic Relationship Healing & Mental Relief Astrology
+[#41] images/love-breakup-remedies.jpg               -> Vedic Remedies for Love Breakup & Soul Reunion
+[#42] images/attract-desired-partner.jpg             -> Attract Desired Partner with Vedic Kamdev & Shukra Astrology
+[#43] images/stop-unwanted-marriage.jpg              -> Stop Forced or Unwanted Marriage Astrological Remedies
+[#44] images/cheating-partner-solution.jpg           -> Cheating Partner Loyalty & Relationship Commitment Remedies
+[#45] images/husband-wife-dispute-solution.jpg       -> Husband Wife Dispute Problem Solution Astrologer
+[#46] images/divorce-problem-solution.jpg            -> Divorce Prevention & Reconciliation Astrological Remedies
+[#47] images/extra-marital-affair-solution.jpg       -> Stop Extra Marital Affairs & Restore Marital Fidelity
+[#48] images/in-laws-problem-solution.jpg            -> In-Laws Problem Solution & Saas-Bahu Kalesh Shanti
+[#49] images/relationship-counseling-astrology.jpg   -> Vedic Relationship Counseling & Astrological Guidance
+[#50] images/family-dispute-problem-solution.jpg     -> Family Dispute & Parivar Kalesh Shanti Astrologer
+[#51] images/positive-vashikaran-specialist.jpg      -> Positive Vedic Vashikaran Specialist Astrologer
+[#52] images/evil-eye-nazar-dosh-removal.jpg         -> Evil Eye (Buri Nazar) Removal & Spiritual Protection
+[#53] images/black-magic-removal-astrologer.jpg      -> Black Magic Removal & Negative Energy Protection
+[#54] images/graha-shanti-puja-remedies.jpg          -> Navagraha Shanti Puja & Vedic Planetary Remedies
+[#55] images/kaal-sarp-dosha-nivaran.jpg             -> Kaal Sarp Dosh Nivaran & Complete Shanti Puja
+[#56] images/shani-sade-sati-remedies.jpg            -> Shani Sade Sati & Dhaiya Astrological Remedies
+[#57] images/rahu-ketu-dosha-remedies.jpg            -> Rahu Ketu Mahadasha & Shadow Planet Remedies
+[#58] images/career-problem-solution-astrology.jpg   -> Career Problem Solution & Job Growth Astrology
+[#59] images/business-growth-astrology.jpg           -> Business Growth Astrology & Business Loss Recovery
+[#60] images/financial-crisis-money-astrology.jpg    -> Financial Crisis, Debt Relief & Wealth Astrology
+[#61] images/love-marriage-specialist-usa.jpg        -> Love Marriage Specialist Astrologer in USA
+[#62] images/love-marriage-specialist-uk.jpg         -> Love Marriage Specialist Astrologer in UK
+[#63] images/love-marriage-specialist-canada.jpg     -> Love Marriage Specialist Astrologer in Canada
+[#64] images/love-marriage-specialist-australia.jpg  -> Love Marriage Specialist Astrologer in Australia
+[#65] images/love-marriage-specialist-uae.jpg        -> Love Marriage Specialist Astrologer in UAE & Dubai
+[#66] images/love-marriage-specialist-delhi.jpg      -> Love Marriage Specialist Astrologer in Delhi NCR
+[#67] images/love-marriage-specialist-mumbai.jpg     -> Love Marriage Specialist Astrologer in Mumbai
+[#68] images/love-marriage-specialist-punjab.jpg     -> Love Marriage Specialist Astrologer in Punjab & Chandigarh
+[#69] images/love-marriage-specialist-bangalore.jpg  -> Love Marriage Specialist Astrologer in Bangalore
+[#70] images/love-marriage-specialist-hyderabad.jpg  -> Love Marriage Specialist Astrologer in Hyderabad
+[#71] images/banner-category-marriage.jpg            -> Marriage & Love Marriage Specialist Master Category Banner
+[#72] images/banner-category-visa.jpg                -> Visa & Overseas Settlement Master Category Banner
+[#73] images/banner-category-love.jpg                -> Lost Love & Relationship Healing Master Category Banner
+[#74] images/banner-category-disputes.jpg            -> Husband-Wife Disputes & Divorce Prevention Master Category Banner
+[#75] images/banner-category-dosha.jpg               -> Graha Dosha, Vashikaran & Protection Master Category Banner
+[#76] images/banner-category-career.jpg              -> Career, Business & Financial Growth Master Category Banner
+[#77] images/banner-category-locations.jpg           -> Global & NRI Astrological Services Master Category Banner
+
+================================================================================
+END OF FILE — ALL 77 IMAGE PROMPTS READY
+================================================================================
