@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# XML Sitemap for Googlebot and Search Engines
+Sitemap: https://sandeepji.aurgenzo.com/sitemap.xml
